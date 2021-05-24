@@ -1,0 +1,8 @@
+# ninja log v5
+4	133	0	CMakeFiles/MicroNote_autogen	31d2e19a38b9f8c2
+4	133	0	MicroNote_autogen/mocs_compilation.cpp	31d2e19a38b9f8c2
+134	292	643579517	MicroNote_autogen/EWIEGA46WW/qrc_qml.cpp	f12d9b909df8438f
+292	424	643579517	CMakeFiles/MicroNote.dir/MicroNote_autogen/mocs_compilation.cpp.obj	fd2bedddf7b7fab0
+306	447	643579517	CMakeFiles/MicroNote.dir/MicroNote_autogen/EWIEGA46WW/qrc_qml.cpp.obj	c2b8c66d2b0edfeb
+320	2843	643579519	CMakeFiles/MicroNote.dir/main.cpp.obj	b68d0d5489ba3097
+2846	4063	643579520	MicroNote.exe	5b8f8dd0a960bcf3

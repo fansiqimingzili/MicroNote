@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/MicroNote/build-MicroNote-Desktop_x86_windows_msvc2017_pe_64bit-Debug/CMakeFiles/MicroNote.dir/embed.manifest"

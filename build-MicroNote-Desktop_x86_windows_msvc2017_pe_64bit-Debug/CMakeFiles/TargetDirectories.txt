@@ -1,0 +1,4 @@
+D:/MicroNote/build-MicroNote-Desktop_x86_windows_msvc2017_pe_64bit-Debug/CMakeFiles/MicroNote.dir
+D:/MicroNote/build-MicroNote-Desktop_x86_windows_msvc2017_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/MicroNote/build-MicroNote-Desktop_x86_windows_msvc2017_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/MicroNote/build-MicroNote-Desktop_x86_windows_msvc2017_pe_64bit-Debug/CMakeFiles/MicroNote_autogen.dir
